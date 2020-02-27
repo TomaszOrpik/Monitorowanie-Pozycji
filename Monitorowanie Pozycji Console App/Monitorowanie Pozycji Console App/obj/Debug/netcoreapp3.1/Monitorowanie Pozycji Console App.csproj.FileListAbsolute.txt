@@ -1,0 +1,11 @@
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.exe
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.deps.json
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.runtimeconfig.json
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.runtimeconfig.dev.json
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.dll
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\bin\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.pdb
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\obj\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\obj\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.AssemblyInfoInputs.cache
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\obj\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.AssemblyInfo.cs
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\obj\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.dll
+C:\Users\Tomek\Desktop\C#\Monitorowanie Pozycji Console App\Monitorowanie Pozycji Console App\obj\Debug\netcoreapp3.1\Monitorowanie Pozycji Console App.pdb
